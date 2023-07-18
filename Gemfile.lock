@@ -71,7 +71,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  x86_64-linux
+  ruby
 
 DEPENDENCIES
   beautiful-jekyll-theme!
@@ -80,4 +80,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.17
+   2.1.4
